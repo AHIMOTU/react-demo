@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+npm i yarn -g
 echo "正在拉取最新代码=======================!"
 git pull
 echo "执行打包=======================!"
